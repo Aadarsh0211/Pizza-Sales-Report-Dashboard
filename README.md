@@ -2,6 +2,10 @@
 
 🍕📊 Pizza Sales Analysis Dashboard 🚀
 
+Project Overview: In the world of pizza, precision and flavor reign supreme. To help our beloved pizzeria thrive, we embarked on a journey to harness the power of data. Leveraging Power BI, we've crafted a Pizza Sales Dashboard that not only satisfies the craving for insights but also empowers us to slice through the competition.
+
+Key Objectives: 📈 Visualize Sales Trends: Gain a holistic view of sales performance over time, identifying peaks, and patterns.
+
 Diving into a year's worth of data, here's what I've uncovered:
 
 👥 Daily Customer Insights: Discovered peak hours and footfall.
